@@ -1,0 +1,11 @@
+[book]
+authors = ["Michael X. Grey"]
+language = "en"
+multilingual = false
+src = "src"
+title = "ORCA Prototype"
+
+[preprocessor.pagetoc]
+[output.html]
+additional-css = ["theme/pagetoc.css"]
+additional-js = ["theme/pagetoc.js"]
